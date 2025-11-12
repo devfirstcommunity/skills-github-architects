@@ -1,1 +1,31 @@
 
+🧭 Session Overview: MCP & Agentic AI — From Concepts to Practical Application
+
+⸻
+
+🎯 Session Objective
+
+By the end of this session, participants will be able to:
+	1.	Understand the core concepts of Modern Control Platform (MCP) and Agentic AI, and how they transform operations in a regulated banking environment.
+	2.	Differentiate between traditional automation (RPA, scripting) and Agentic AI-driven autonomous workflows.
+	3.	Apply Agentic AI principles to a real-world banking use case — KYC/AML Anomaly Detection.
+	4.	Design a simple implementation plan using an AI agent to identify, act, and resolve anomalies in compliance data.
+
+Time
+Topic
+Description
+10 min
+Introduction to MCP & Agentic AI
+What, Why, and How it helps banking ops
+15 min
+Core Concepts
+Agents, Tools, Actions, Reasoning Loops
+20 min
+Use Case Demo: KYC/AML Anomaly Detection
+Design, data flow, agent logic
+10 min
+Implementation Plan & Integration
+Steps, architecture, and governance
+5 min
+Q&A and Wrap-Up
+Summary, next steps
